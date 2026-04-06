@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "custom_world",
+  "version": "${version}",
+  "name": "Custom World",
+  "description": "Konfiguracja szumu terenu i gęstości feature'ów przed generacją świata.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "pl.customworld.CustomWorldMod"
+    ],
+    "client": [
+      "pl.customworld.client.CustomWorldClient"
+    ]
+  },
+  "mixins": [
+    "custom_world.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

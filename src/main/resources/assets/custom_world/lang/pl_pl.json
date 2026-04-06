@@ -1,0 +1,15 @@
+{
+  "custom_world.screen.title": "Ustawienia terenu",
+  "custom_world.ocean": "Częstość oceanów: %s",
+  "custom_world.mountain": "Częstość gór: %s",
+  "custom_world.height": "Wysokość terenu: %s",
+  "custom_world.noise_scale": "Skala szumu: %s",
+  "custom_world.cave_size": "Wielkość jaskiń: %s",
+  "custom_world.cave_freq": "Częstość jaskiń: %s",
+  "custom_world.structures": "Gęstość struktur: %s",
+  "custom_world.biome_size": "Rozmiar biomów: %s",
+  "custom_world.sea_level": "Poziom morza: %s",
+  "custom_world.roughness": "Poszarpanie terenu: %s",
+  "custom_world.vegetation": "Roślinność: %s",
+  "custom_world.random": "Losuj"
+}
